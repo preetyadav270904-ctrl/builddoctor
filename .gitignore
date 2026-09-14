@@ -1,0 +1,21 @@
+# Environments
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Ephemeral Artifacts
+.tmp_*
+*.diff
+*.log
+*.patch
+culprit_commit.txt
+
+# Generated Repositories
+test_target_repo/
+
+
+
+.idea/
+
+.idea/
