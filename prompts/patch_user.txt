@@ -1,0 +1,7 @@
+The following code in {target_file} is failing tests.
+
+FAILING LOG:
+{log_content}
+{file_content_snippet}
+
+Generate a minimal unified patch for {target_file} to fix the bug:
